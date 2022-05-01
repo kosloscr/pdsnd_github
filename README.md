@@ -13,5 +13,8 @@ Statistics will be calculated and presented to the user based on provided filter
 ### Files used
 bikeshare_2.py, chicago.csv, new_york_city.csv, washington.csv
 
+#Notes
+The Washington D.C. data does not include gender
+
 ### Credits
 @Udacity
