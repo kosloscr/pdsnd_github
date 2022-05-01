@@ -1,10 +1,11 @@
 import time
 import pandas as pd
 
-
+#Added a new potential city
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
-              'washington': 'washington.csv' }
+              'washington': 'washington.csv',
+              'pittsburgh': 'pittsburgh.csv'}
 
 week_data = {'mon':0, 'tue':1, 'wed':2, 'thu':3, 'fri':4, 'sat':5, 'sun':6}
 
