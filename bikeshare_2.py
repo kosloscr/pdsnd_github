@@ -200,6 +200,7 @@ def process_output(df):
 
 
 def main():
+    """Runs the main application, assumes csv files are in working directory"""
     while True:
         #determine the city, month and day to filter
         city, month, day = get_filters()
